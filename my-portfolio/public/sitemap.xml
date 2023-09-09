@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/portfolio/project1/</loc>
+    <lastmod>2023-09-09T16:21:26+00:00</lastmod>
+  </url><url>
+    <loc>/portfolio/</loc>
+    <lastmod>2023-09-09T16:21:26+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-09-09T16:21:26+00:00</lastmod>
+  </url><url>
+    <loc>/portfolio/project2/</loc>
+    <lastmod>2023-09-09T16:21:02+00:00</lastmod>
+  </url><url>
+    <loc>/portfolio/project3/</loc>
+    <lastmod>2023-09-09T16:20:59+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>

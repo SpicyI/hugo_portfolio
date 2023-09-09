@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spicy&#39;s Portfolio</title>
+    <link>/</link>
+    <description>Recent content on Spicy&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Sep 2023 16:21:26 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minishell</title>
+      <link>/portfolio/project1/</link>
+      <pubDate>Sat, 09 Sep 2023 16:21:26 +0000</pubDate>
+      
+      <guid>/portfolio/project1/</guid>
+      <description>Minishell: Minishell is a simplified Unix shell implementation, built as a programming project. It provides a command-line interface that allows users to interact with the operating system by executing commands.
+This project aims to recreate a subset of the functionalities found in a traditional Unix shell. It serves as an exercise in systems programming and provides an opportunity to understand the inner workings of a shell environment.
+Objective: Objective: To create a simplified shell or command-line interpreter, similar to the Unix/Linux shell (e.</description>
+    </item>
+    
+    <item>
+      <title>Cub3D</title>
+      <link>/portfolio/project2/</link>
+      <pubDate>Sat, 09 Sep 2023 16:21:02 +0000</pubDate>
+      
+      <guid>/portfolio/project2/</guid>
+      <description>Cub3D Cub3D is an exciting and innovative project that combines gaming and programming. This project takes inspiration from the classic 3D maze games and challenges you to build your own maze engine using C and raycasting techniques.
+Game Preview Objective The primary objective of the Cub3D project is to create a simple 3D maze game where the player navigates through a labyrinth using raycasting to render the environment.
+Key Features Raycasting Engine: Implement a raycasting engine to render the 3D maze environment in a 2D window.</description>
+    </item>
+    
+    <item>
+      <title>webserv</title>
+      <link>/portfolio/project3/</link>
+      <pubDate>Sat, 09 Sep 2023 16:20:59 +0000</pubDate>
+      
+      <guid>/portfolio/project3/</guid>
+      <description>WebServer 42 Project Overview Introduction WebServer 42 is an exciting project that focuses on building a robust and efficient web server from scratch. This project is designed to help you gain a deep understanding of how web servers work by implementing one using the C programming language.
+Project Description Objective The primary goal of WebServer 42 is to create a functional and scalable web server that can handle HTTP requests, serve web pages, and support various web technologies.</description>
+    </item>
+    
+  </channel>
+</rss>
