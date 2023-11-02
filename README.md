@@ -2,7 +2,7 @@
 Welcome to my portfolio repository! This portfolio is built using [Hugo](https://gohugo.io/), a popular static site generator, and it's powered by the elegant [PaperMode](https://github.com/adityatelange/hugo-PaperMod) theme.
 
 # Overview
-This repository serves as a showcase of my work in 42scholl cursus, projects, and personal information. It provides an organized and stylish way for visitors to explore my skills, experience, and accomplishments.
+This repository serves as a showcase of my work in 42school cursus, projects, and personal information. It provides an organized and stylish way for visitors to explore my skills, experience, and accomplishments.
 
 # Technologies Used
 Hugo: A fast and flexible static site generator written in Go.
